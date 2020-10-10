@@ -3,11 +3,11 @@ This is the sample code of a discord event manager bot,
 that I amde a while ago.
 
 ## Table of contents
-* [General info](#/!\-general-info-/!\)
+* [General info](#general-info)
 * [Technologies](#requirements)
 * [Setup](#setup)
 
-## /!\ General Info /!\
+## General Info
 -It is single server only but it can be easily modified.
 -I'm frensh so every responses messages are not translated.
 -This is a sample code, so you need to create your own app and
