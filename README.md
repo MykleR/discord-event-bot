@@ -4,7 +4,7 @@ that I amde a while ago.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#requirements)
+* [Requirements](#requirements)
 * [Setup](#setup)
 
 ## General Info
@@ -25,7 +25,7 @@ that I amde a while ago.
 -Replace the "TOKEN" to your app one.
 -Got to "engine/settings.py", Change IDs:
  (ANIMATEURID: ID of the role with permissions to manage events,
-  EVENTPLAYERID: ID of the role that will be given to players,
-  EVENTSCHANNELID: ID of the default event announcement channel)
- -Change the "TIME_ZONE"
- -Translate every messages if you are not frensh...
+ EVENTPLAYERID: ID of the role that will be given to players,
+ EVENTSCHANNELID: ID of the default event announcement channel)
+-Change the "TIME_ZONE"
+-Translate every messages if you are not frensh...
