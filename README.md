@@ -1,6 +1,6 @@
 # Discord Event Manager Bot
 This is the sample code of a discord event manager bot,
-that I amde a while ago.
+that I made a while ago. So the project is no longer updated...
 
 ## Table of contents
 * [General info](#general-info)
