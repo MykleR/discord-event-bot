@@ -8,11 +8,11 @@ that I amde a while ago.
 * [Setup](#setup)
 
 ## General Info
--It is single server only but it can be easily modified.
--I'm frensh so every responses messages are not translated.
--This is a sample code, so you need to create your own app and
- replace the "TOKEN" variable in "main.py"
--You can also change the "PREFIX" variable.
+* It is single server only but it can be easily modified.
+*  I'm frensh so every responses messages are not translated.
+* This is a sample code, so you need to create your own app and
+  replace the "TOKEN" variable in "main.py"
+* You can also change the "PREFIX" variable.
 
 ## Requirements
 * [Python](https://www.python.org/downloads/) version: 3.6
@@ -20,12 +20,12 @@ that I amde a while ago.
 * [Pytz](https://pypi.org/project/pytz/) python library version: 2018.3
 
 ## Setup
--Download zip, fork or clone.
--Install requirements
--Replace the "TOKEN" to your app one.
--Got to "engine/settings.py", Change IDs:
+* Download zip, fork or clone.
+* Install requirements
+* Replace the "TOKEN" to your app one.
+* Got to "engine/settings.py", Change IDs:
 (ANIMATEURID: ID of the role with permissions to manage events,
 EVENTPLAYERID: ID of the role that will be given to players,
 EVENTSCHANNELID: ID of the default event announcement channel)
--Change the "TIME_ZONE"
--Translate every messages if you are not frensh...
+* Change the "TIME_ZONE"
+* Translate every messages if you are not frensh...
