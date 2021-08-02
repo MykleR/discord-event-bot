@@ -1,3 +1,4 @@
+# /!\ DISCONTINUED /!\
 # Discord Event Manager Bot
 This is the sample code of a discord event manager bot,
 that I made a while ago. So the project is no longer updated...
